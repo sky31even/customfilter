@@ -1,0 +1,25 @@
+- DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
+- DOMAIN-SUFFIX,xuetangx.com,DIRECT
+- DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
+- DOMAIN-SUFFIX,addthis.com,DIRECT
+- DOMAIN-SUFFIX,addthisedge.com,DIRECT
+- DOMAIN-SUFFIX,gov.cn,DIRECT
+- DOMAIN-SUFFIX,zhaopin.cn,DIRECT
+- DOMAIN-SUFFIX,szlib.org.cn,DIRECT
+- DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+- DOMAIN-SUFFIX,shuaishou.com,DIRECT
+- DOMAIN-SUFFIX,evennotes.cn,DIRECT
+- DOMAIN-SUFFIX,cnki.net,DIRECT
+- DOMAIN-SUFFIX,gov,Proxy
+- DOMAIN-SUFFIX,edx-cdn.org,Proxy
+- DOMAIN-SUFFIX,edx.org,Proxy
+- DOMAIN-SUFFIX,matters.news,Proxy
+- DOMAIN-SUFFIX,scmp.com,Proxy
+- DOMAIN-SUFFIX,brave.com,Proxy
+- DOMAIN-SUFFIX,dlercloud.com,Proxy
+- DOMAIN-SUFFIX,amap.com, DIRECT
+- DOMAIN-SUFFIX,autonavi.com, DIRECT
+- DOMAIN-SUFFIX,duckduckgo.com, Proxy
+- DOMAIN-SUFFIX,growingio.com, Proxy
+- DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
+- DOMAIN-SUFFIX,hujiang.com, DIRECT
