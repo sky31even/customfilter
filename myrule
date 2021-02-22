@@ -1,25 +1,26 @@
-- DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
-- DOMAIN-SUFFIX,xuetangx.com,DIRECT
-- DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
-- DOMAIN-SUFFIX,addthis.com,DIRECT
-- DOMAIN-SUFFIX,addthisedge.com,DIRECT
-- DOMAIN-SUFFIX,gov.cn,DIRECT
-- DOMAIN-SUFFIX,zhaopin.cn,DIRECT
-- DOMAIN-SUFFIX,szlib.org.cn,DIRECT
-- DOMAIN-SUFFIX,pinduoduo.com,DIRECT
-- DOMAIN-SUFFIX,shuaishou.com,DIRECT
-- DOMAIN-SUFFIX,evennotes.cn,DIRECT
-- DOMAIN-SUFFIX,cnki.net,DIRECT
-- DOMAIN-SUFFIX,gov,Proxy
-- DOMAIN-SUFFIX,edx-cdn.org,Proxy
-- DOMAIN-SUFFIX,edx.org,Proxy
-- DOMAIN-SUFFIX,matters.news,Proxy
-- DOMAIN-SUFFIX,scmp.com,Proxy
-- DOMAIN-SUFFIX,brave.com,Proxy
-- DOMAIN-SUFFIX,dlercloud.com,Proxy
-- DOMAIN-SUFFIX,amap.com, DIRECT
-- DOMAIN-SUFFIX,autonavi.com, DIRECT
-- DOMAIN-SUFFIX,duckduckgo.com, Proxy
-- DOMAIN-SUFFIX,growingio.com, Proxy
-- DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
-- DOMAIN-SUFFIX,hujiang.com, DIRECT
+[filter_local]
+host-suffix,liaoxuefeng.com,direct
+host-suffix,xuetangx.com,direct
+host-suffix,leetcode-cn.com,direct
+host-suffix,addthis.com,direct
+host-suffix,addthisedge.com,direct
+host-suffix,gov.cn,direct
+host-suffix,zhaopin.cn,direct
+host-suffix,szlib.org.cn,direct
+host-suffix,pinduoduo.com,direct
+host-suffix,shuaishou.com,direct
+host-suffix,evennotes.cn,direct
+host-suffix,cnki.net,direct
+host-suffix,gov,Proxy
+host-suffix,edx-cdn.org,Proxy
+host-suffix,edx.org,Proxy
+host-suffix,matters.news,Proxy
+host-suffix,scmp.com,Proxy
+host-suffix,brave.com,Proxy
+host-suffix,dlercloud.com,Proxy
+host-suffix,amap.com, direct
+host-suffix,autonavi.com, direct
+host-suffix,duckduckgo.com, Proxy
+host-suffix,growingio.com, Proxy
+host-suffix,promotion.aliyun.com, direct
+host-suffix,hujiang.com, direct
