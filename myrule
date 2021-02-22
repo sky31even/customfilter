@@ -1,4 +1,4 @@
-[filter_local]
+[filter_custom]
 host-suffix,liaoxuefeng.com,direct
 host-suffix,xuetangx.com,direct
 host-suffix,leetcode-cn.com,direct
