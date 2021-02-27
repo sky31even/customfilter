@@ -10,17 +10,17 @@ HOST-SUFFIX,pinduoduo.com,direct
 HOST-SUFFIX,shuaishou.com,direct
 HOST-SUFFIX,evennotes.cn,direct
 HOST-SUFFIX,cnki.net,direct
-HOST-SUFFIX,gov,Proxy
-HOST-SUFFIX,edx-cdn.org,Proxy
-HOST-SUFFIX,edx.org,Proxy
-HOST-SUFFIX,matters.news,Proxy
-HOST-SUFFIX,scmp.com,Proxy
-HOST-SUFFIX,brave.com,Proxy
-HOST-SUFFIX,dlercloud.com,Proxy
+HOST-SUFFIX,gov,proxy
+HOST-SUFFIX,edx-cdn.org,proxy
+HOST-SUFFIX,edx.org,proxy
+HOST-SUFFIX,matters.news,proxy
+HOST-SUFFIX,scmp.com,proxy
+HOST-SUFFIX,brave.com,proxy
+HOST-SUFFIX,dlercloud.com,proxy
 HOST-SUFFIX,amap.com, direct
 HOST-SUFFIX,autonavi.com, direct
-HOST-SUFFIX,duckduckgo.com, Proxy
-HOST-SUFFIX,growingio.com, Proxy
+HOST-SUFFIX,duckduckgo.com, proxy
+HOST-SUFFIX,growingio.com, proxy
 HOST-SUFFIX,promotion.aliyun.com, direct
 HOST-SUFFIX,hujiang.com, direct
-HOST-KEYWORD,clubhouse, Proxy
+HOST-KEYWORD,clubhouse, proxy
