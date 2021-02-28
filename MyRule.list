@@ -1,26 +1,26 @@
-HOST-SUFFIX,liaoxuefeng.com,Mainland
-HOST-SUFFIX,xuetangx.com,Mainland
-HOST-SUFFIX,leetcode-cn.com,Mainland
-HOST-SUFFIX,addthis.com,Mainland
-HOST-SUFFIX,addthisedge.com,Mainland
-HOST-SUFFIX,gov.cn,Mainland
-HOST-SUFFIX,zhaopin.cn,Mainland
-HOST-SUFFIX,szlib.org.cn,Mainland
-HOST-SUFFIX,pinduoduo.com,Mainland
-HOST-SUFFIX,shuaishou.com,Mainland
-HOST-SUFFIX,evennotes.cn,Mainland
-HOST-SUFFIX,cnki.net,Mainland
-HOST-SUFFIX,gov,Outside
-HOST-SUFFIX,edx-cdn.org,Outside
-HOST-SUFFIX,edx.org,Outside
-HOST-SUFFIX,matters.news,Outside
-HOST-SUFFIX,scmp.com,Outside
-HOST-SUFFIX,brave.com,Outside
-HOST-SUFFIX,dlercloud.com,Outside
-HOST-SUFFIX,amap.com, Mainland
-HOST-SUFFIX,autonavi.com, Mainland
-HOST-SUFFIX,duckduckgo.com, Mainland
-HOST-SUFFIX,growingio.com, Mainland
-HOST-SUFFIX,promotion.aliyun.com, Mainland
-HOST-SUFFIX,hujiang.com, Mainland
-HOST-KEYWORD,clubhouse, Outside
+HOST-SUFFIX,liaoxuefeng.com,direct
+HOST-SUFFIX,xuetangx.com,direct
+HOST-SUFFIX,leetcode-cn.com,direct
+HOST-SUFFIX,addthis.com,direct
+HOST-SUFFIX,addthisedge.com,direct
+HOST-SUFFIX,gov.cn,direct
+HOST-SUFFIX,zhaopin.cn,direct
+HOST-SUFFIX,szlib.org.cn,direct
+HOST-SUFFIX,pinduoduo.com,direct
+HOST-SUFFIX,shuaishou.com,direct
+HOST-SUFFIX,evennotes.cn,direct
+HOST-SUFFIX,cnki.net,direct
+HOST-SUFFIX,gov,proxy
+HOST-SUFFIX,edx-cdn.org,proxy
+HOST-SUFFIX,edx.org,proxy
+HOST-SUFFIX,matters.news,proxy
+HOST-SUFFIX,scmp.com,proxy
+HOST-SUFFIX,brave.com,proxy
+HOST-SUFFIX,dlercloud.com,proxy
+HOST-SUFFIX,amap.com, direct
+HOST-SUFFIX,autonavi.com, direct
+HOST-SUFFIX,duckduckgo.com, direct
+HOST-SUFFIX,growingio.com, direct
+HOST-SUFFIX,promotion.aliyun.com, direct
+HOST-SUFFIX,hujiang.com, direct
+HOST-KEYWORD,clubhouse, proxy
