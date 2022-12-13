@@ -3,6 +3,9 @@ name: Edit Outside
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - '*'
 
 jobs:
   fetch-and-edit-file:
