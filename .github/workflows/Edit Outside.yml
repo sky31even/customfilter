@@ -21,6 +21,10 @@ jobs:
     - name: Save file with new name
       run: |
         mv Outside.list outside_edt.list
+    - name: Set default identity
+      run: |
+        git config --global user.email "sky31even@gmail.com"
+        git config --global user.name "Even"
     - name: Commit and push changes
       run: |
         git add outside_edt.list
