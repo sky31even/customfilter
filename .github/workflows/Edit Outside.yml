@@ -14,6 +14,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Fetch file from remote URL
       run: |
+        cd QuantumultX
         curl -O https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list -o Outside.list
     - name: Delete lines containing "duolingo"
       run: |
