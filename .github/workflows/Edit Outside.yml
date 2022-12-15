@@ -14,11 +14,11 @@ jobs:
         run: |
           git config --global user.email "sky31even@gmail.com"
           git config --global user.name "sky31even"
-      - name: Acquire outside.list
-        run: curl -o outside.list https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list
-      - name: Edit outside.list
+      - name: Acquire outside_QuantumultX.list
+        run: curl -o outside_QuantumultX.list https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list
+      - name: Edit outside_QuantumultX.list
         run: |
-          grep -iv "duolingo" outside.list > outside_QuantumultX.list
+          grep -iv "duolingo" outside_QuantumultX.list > outside_QuantumultX.list
       - name: Save changes
         run: |
           git add .
