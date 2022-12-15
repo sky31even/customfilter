@@ -1,14 +1,12 @@
-parsers: # array
-    - reg: /.*/
-      yaml:
-        prepend-proxy-groups:
-          - name: US # 建立新策略组
-            type: url-test
-            url: "http://www.gstatic.com/generate_204"
-            interval: 300
-            proxies:
-              - DIRECT
-        commands:
-            - proxy-groups.US.proxies=[]proxyNames|美国 # 向策略组添加所有定义的节点名，并按“HK”正则表达式过滤
-        prepend-rules:
-          - DOMAIN-KEYWORD, openai.com, US
+yaml:
+  prepend-proxy-groups:
+    - name: US # 建立新策略组
+      type: url-test
+      url: "http://www.gstatic.com/generate_204"
+      interval: 300
+      proxies:
+        - DIRECT
+  commands:
+      - proxy-groups.US.proxies=[]proxyNames|美国 # 向策略组添加所有定义的节点名，并按“HK”正则表达式过滤
+  prepend-rules:
+    - DOMAIN-KEYWORD, openai.com, US
