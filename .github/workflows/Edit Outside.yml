@@ -1,13 +1,13 @@
 name: Edit outside.list
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron:  '0 */8 * * *'
+  workflow_dispatch:
 
 jobs:
   edit_file:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - name: Acquire outside.list
@@ -16,3 +16,7 @@ jobs:
         run: |
           grep -iv "duolingo" outside.list > outside_edt.list
           mv outside_edt.list QuantumultX/outside_edt.list
+      - name: Save changes
+        run: |
+          git add QuantumultX/outside_edt.list
+          git commit -m "Edit outside.list"
