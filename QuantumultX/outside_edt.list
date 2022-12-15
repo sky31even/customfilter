@@ -6,7 +6,6 @@ HOST-SUFFIX,discordapp.com,Outside
 HOST-SUFFIX,discordapp.net,Outside
 HOST-SUFFIX,discordstatus.com,Outside
 
-# > Duolingo
 
 # > Google Voice
 HOST,lens.l.google.com,Outside
