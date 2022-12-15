@@ -23,5 +23,5 @@ jobs:
       - name: Save changes
         run: |
           git add QuantumultX/outside_edt.list
-          git commit -m "Edit outside.list"
+          git commit -m "update the edited outside filter on: $(date)"
           git push
