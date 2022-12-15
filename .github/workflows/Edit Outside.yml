@@ -23,5 +23,5 @@ jobs:
       - name: Save changes
         run: |
           git add .
-          git commit -m "update the edited outside filter on: $(date)"
+          git commit -m "update the outside filter on: $(TZ=UTC+8 date +%Y-%m-%d %T)"
           git push
