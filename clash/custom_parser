@@ -1,8 +1,7 @@
-# copy this whole code into clash/parser
 parsers: # array
-    - reg: /.*/ # match all url
+    - reg: /.*/
       yaml:
-        append-proxy-groups:
+        prepend-proxy-groups:
           - name: US # 建立新策略组
             type: url-test
             url: "http://www.gstatic.com/generate_204"
