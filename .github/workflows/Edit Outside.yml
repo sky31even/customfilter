@@ -18,7 +18,7 @@ jobs:
     - name: Delete lines containing "duolingo"
       run: |
         sed -i '/^USER-AGENT,Duolingo.*,Outside$/d' Outside.list
-        sed -i '/duolingo/d' Outside.list
+        sed -i '/duolingo/d' QuantumultX/Outside.list
     - name: Save file with new name
       run: |
         mv Outside.list outside_edt.list
@@ -28,6 +28,6 @@ jobs:
         git config --global user.name "Even"
     - name: Commit and push changes
       run: |
-        git add outside_edt.list
+        git add -f QuantumultX/outside_edt.list
         git commit -m "Deleted lines containing duolingo and saved file with new name"
         git push
