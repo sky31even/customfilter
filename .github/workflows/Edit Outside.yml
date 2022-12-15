@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: set identity
-        run: 
+        run: |
           git config --global user.email "sky31even@gmail.com"
           git config --global user.name "Even"
       - name: Acquire outside.list
