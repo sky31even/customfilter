@@ -1,38 +1,18 @@
-name: Edit Outside
+name: Edit outside.list
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   push:
-    branches:
-      - '*'
+    branches: [ master ]
 
 jobs:
-  fetch-and-edit-file:
+  edit_file:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Fetch file from remote URL
-      run: |
-        curl -O https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list -o outside_list.txt
-    - name: Change to directory where file is saved
-      run: |
-        cd QuantumultX
-    - name: Delete lines containing "duolingo"
-      run: |
-        sed -i '/^USER-AGENT,Duolingo.*,Outside$/d' outside_list.txt
-    - name: Save file with new name
-      run: |
-        mv outside_list.txt outside_edt.list
-        git add -f QuantumultX/outside_edt.list
-    - name: Set default identity
-      run: |
-        git config --global user.email "sky31even@gmail.com"
-        git config --global user.name "Even"
-    - name: Generate current date and time
-      run: |
-        current_date_time=$(date -u +"%Y-%m-%dT%H:%M:%SZ" -d "+8 hours")
-    - name: Commit and push changes
-      run: |
-        git commit -m "updated on: $current_date_time"
-        git push
+      - uses: actions/checkout@v2
+      - name: Acquire outside.list
+        run: curl -o outside.list https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list
+      - name: Edit outside.list
+        run: |
+          grep -iv "duolingo" outside.list > outside_edt.list
+          mv outside_edt.list QuantumultX/outside_edt.list
