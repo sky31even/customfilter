@@ -18,9 +18,9 @@ jobs:
         run: curl -o outside_QuantumultX.list https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list
       - name: Edit outside_QuantumultX.list
         run: |
-          grep -iv "duolingo" outside_QuantumultX.list > outside_QuantumultX.list
+          grep -iv "duolingo" outside_QuantumultX.list --in-place
       - name: Save changes
         run: |
           git add .
-          git commit -m "update the outside filter on: $(TZ=UTC+8 date +%Y-%m-%d %T)"
+          git commit -m "Update the outside filter on: $(TZ=UTC+8 date +%Y-%m-%d %T)"
           git push
