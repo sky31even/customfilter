@@ -7,6 +7,7 @@ on:
 
 jobs:
   edit_file:
+    continue-on-error: true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,10 +17,26 @@ jobs:
           git config --global user.name "sky31even"
       - name: Acquire outside_QuantumultX.list
         run: curl -o outside_QuantumultX.list https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/Outside.list
+      - name: Check file status
+        run: |
+          git diff --exit-code outside_QuantumultX.list
+          if [ $? -ne 0 ]; then
+            echo "Changes detected in file"
+          else
+            echo "No changes detected in file"
+            exit 78
+          fi
       - name: Edit outside_QuantumultX.list
         run: |
           grep -iv "duolingo" outside_QuantumultX.list > outside_QuantumultX.list.temp
           mv outside_QuantumultX.list.temp outside_QuantumultX.list
+      - name: Check exit code
+        if: ${{ failure() }}
+        run: |
+          if [ $? -eq 78 ]; then
+            echo "Exiting without making further changes"
+            exit 0
+          fi
       - name: Save changes
         run: |
           git add .
