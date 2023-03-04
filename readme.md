@@ -1,4 +1,4 @@
-Customized filter rule for Clash and QuantumultX
+Customized filter rule for Clash and QuantumultX 
 
 
 Ref:
