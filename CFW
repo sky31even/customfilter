@@ -1,38 +1,38 @@
-DOMAIN-SUFFIX,liaoxuefeng.com,Domestic
-DOMAIN-SUFFIX,xuetangx.com,Domestic
-DOMAIN-SUFFIX,leetcode-cn.com,Domestic
-DOMAIN-SUFFIX,addthis.com,Domestic
-DOMAIN-SUFFIX,addthisedge.com,Domestic
-DOMAIN-SUFFIX,gov.cn,Domestic
-DOMAIN-SUFFIX,zhaopin.cn,Domestic
-DOMAIN-SUFFIX,szlib.org.cn,Domestic
-DOMAIN-SUFFIX,pinduoduo.com,Domestic
-DOMAIN-SUFFIX,shuaishou.com,Domestic
-DOMAIN-SUFFIX,evennotes.cn,Domestic
-DOMAIN-SUFFIX,cnki.net,Domestic
-DOMAIN-SUFFIX,gov,Proxy
-DOMAIN-SUFFIX,edx-cdn.org,Proxy
-DOMAIN-SUFFIX,edx.org,Proxy
-DOMAIN-SUFFIX,matters.news,Proxy
-DOMAIN-SUFFIX,scmp.com,Proxy
-DOMAIN-SUFFIX,brave.com,Proxy
-DOMAIN-SUFFIX,dlercloud.com,Proxy
-DOMAIN-SUFFIX,amap.com, Domestic
-DOMAIN-SUFFIX,autonavi.com, Domestic
-DOMAIN-SUFFIX,growingio.com, Domestic
-DOMAIN-SUFFIX,promotion.aliyun.com, Domestic
-DOMAIN-SUFFIX,hujiang.com, Domestic
-DOMAIN-KEYWORD,clubhouse, Proxy 
-DOMAIN-KEYWORD,discord,Proxy
-DOMAIN-SUFFIX,pscp.tv,Proxy
-DOMAIN-SUFFIX,business-humanrights.org,Proxy
-DOMAIN-SUFFIX,z-lib.org,Proxy
-DOMAIN-SUFFIX,leetcode.com,Domestic
-DOMAIN-KEYWORD,zoom,Proxy
-DOMAIN-SUFFIX,substack.com,Proxy
-DOMAIN-SUFFIX,mirror.xyz,Proxy
-DOMAIN-SUFFIX,truthsocial.com, OpenAI
-DOMAIN-SUFFIX,openai.com, OpenAI
-DOMAIN-SUFFIX,forbes.com,Proxy
-DOMAIN-SUFFIX,econ.st,Proxy
-DOMAIN-SUFFIX,acast.com,Proxy
+- DOMAIN-SUFFIX,liaoxuefeng.com,Domestic
+- DOMAIN-SUFFIX,xuetangx.com,Domestic
+- DOMAIN-SUFFIX,leetcode-cn.com,Domestic
+- DOMAIN-SUFFIX,addthis.com,Domestic
+- DOMAIN-SUFFIX,addthisedge.com,Domestic
+- DOMAIN-SUFFIX,gov.cn,Domestic
+- DOMAIN-SUFFIX,zhaopin.cn,Domestic
+- DOMAIN-SUFFIX,szlib.org.cn,Domestic
+- DOMAIN-SUFFIX,pinduoduo.com,Domestic
+- DOMAIN-SUFFIX,shuaishou.com,Domestic
+- DOMAIN-SUFFIX,evennotes.cn,Domestic
+- DOMAIN-SUFFIX,cnki.net,Domestic
+- DOMAIN-SUFFIX,gov,Proxy
+- DOMAIN-SUFFIX,edx-cdn.org,Proxy
+- DOMAIN-SUFFIX,edx.org,Proxy
+- DOMAIN-SUFFIX,matters.news,Proxy
+- DOMAIN-SUFFIX,scmp.com,Proxy
+- DOMAIN-SUFFIX,brave.com,Proxy
+- DOMAIN-SUFFIX,dlercloud.com,Proxy
+- DOMAIN-SUFFIX,amap.com, Domestic
+- DOMAIN-SUFFIX,autonavi.com, Domestic
+- DOMAIN-SUFFIX,growingio.com, Domestic
+- DOMAIN-SUFFIX,promotion.aliyun.com, Domestic
+- DOMAIN-SUFFIX,hujiang.com, Domestic
+- DOMAIN-KEYWORD,clubhouse, Proxy 
+- DOMAIN-KEYWORD,discord,Proxy
+- DOMAIN-SUFFIX,pscp.tv,Proxy
+- DOMAIN-SUFFIX,business-humanrights.org,Proxy
+- DOMAIN-SUFFIX,z-lib.org,Proxy
+- DOMAIN-SUFFIX,leetcode.com,Domestic
+- DOMAIN-KEYWORD,zoom,Proxy
+- DOMAIN-SUFFIX,substack.com,Proxy
+- DOMAIN-SUFFIX,mirror.xyz,Proxy
+- DOMAIN-SUFFIX,truthsocial.com, OpenAI
+- DOMAIN-SUFFIX,openai.com, OpenAI
+- DOMAIN-SUFFIX,forbes.com,Proxy
+- DOMAIN-SUFFIX,econ.st,Proxy
+- DOMAIN-SUFFIX,acast.com,Proxy
