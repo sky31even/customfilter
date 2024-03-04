@@ -1,0 +1,40 @@
+[filter_local]
+HOST-SUFFIX,liaoxuefeng.com,DIRECT
+HOST-SUFFIX,xuetangx.com,DIRECT
+HOST-SUFFIX,leetcode-cn.com,DIRECT
+HOST-SUFFIX,addthis.com,DIRECT
+HOST-SUFFIX,addthisedge.com,DIRECT
+HOST-SUFFIX,gov.cn,DIRECT
+HOST-SUFFIX,zhaopin.cn,DIRECT
+HOST-SUFFIX,szlib.org.cn,DIRECT
+HOST-SUFFIX,pinduoduo.com,DIRECT
+HOST-SUFFIX,shuaishou.com,DIRECT
+HOST-SUFFIX,evennotes.cn,DIRECT
+HOST-SUFFIX,cnki.net,DIRECT
+HOST-SUFFIX,gov,PROXY
+HOST-SUFFIX,edx-cdn.org,PROXY
+HOST-SUFFIX,edx.org,PROXY
+HOST-SUFFIX,matters.news,PROXY
+HOST-SUFFIX,scmp.com,PROXY
+HOST-SUFFIX,brave.com,PROXY
+HOST-SUFFIX,dlercloud.com,PROXY
+HOST-SUFFIX,amap.com, DIRECT
+HOST-SUFFIX,autonavi.com, DIRECT
+HOST-SUFFIX,growingio.com, DIRECT
+HOST-SUFFIX,promotion.aliyun.com, DIRECT
+HOST-SUFFIX,hujiang.com, DIRECT
+HOST-KEYWORD,clubhouse, PROXY 
+HOST-KEYWORD,discord,PROXY
+HOST-SUFFIX,pscp.tv,PROXY
+HOST-SUFFIX,business-humanrights.org,PROXY
+HOST-SUFFIX,z-lib.org,PROXY
+HOST-KEYWORD,shopee,Taiwan
+HOST-SUFFIX,leetcode.com,DIRECT
+HOST-KEYWORD,zoom,PROXY
+HOST-SUFFIX,substack.com,PROXY
+HOST-SUFFIX,mirror.xyz,PROXY
+HOST-SUFFIX,truthsocial.com, United States
+HOST-SUFFIX,openai.com, United States
+HOST-SUFFIX,forbes.com,PROXY
+HOST-SUFFIX,econ.st,PROXY
+HOST-SUFFIX,acast.com,GMedia
