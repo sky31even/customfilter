@@ -1,0 +1,39 @@
+- DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
+- DOMAIN-SUFFIX,xuetangx.com,DIRECT
+- DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
+- DOMAIN-SUFFIX,addthis.com,DIRECT
+- DOMAIN-SUFFIX,addthisedge.com,DIRECT
+- DOMAIN-SUFFIX,gov.cn,DIRECT
+- DOMAIN-SUFFIX,zhaopin.cn,DIRECT
+- DOMAIN-SUFFIX,szlib.org.cn,DIRECT
+- DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+- DOMAIN-SUFFIX,shuaishou.com,DIRECT
+- DOMAIN-SUFFIX,evennotes.cn,DIRECT
+- DOMAIN-SUFFIX,cnki.net,DIRECT
+- DOMAIN-SUFFIX,gov,PROXY
+- DOMAIN-SUFFIX,edx-cdn.org,PROXY
+- DOMAIN-SUFFIX,edx.org,PROXY
+- DOMAIN-SUFFIX,matters.news,PROXY
+- DOMAIN-SUFFIX,scmp.com,PROXY
+- DOMAIN-SUFFIX,brave.com,PROXY
+- DOMAIN-SUFFIX,dlercloud.com,PROXY
+- DOMAIN-SUFFIX,amap.com, DIRECT
+- DOMAIN-SUFFIX,autonavi.com, DIRECT
+- DOMAIN-SUFFIX,growingio.com, DIRECT
+- DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
+- DOMAIN-SUFFIX,hujiang.com, DIRECT
+- DOMAIN-KEYWORD,clubhouse, PROXY 
+- DOMAIN-KEYWORD,discord,PROXY
+- DOMAIN-SUFFIX,pscp.tv,PROXY
+- DOMAIN-SUFFIX,business-humanrights.org,PROXY
+- DOMAIN-SUFFIX,z-lib.org,PROXY
+- DOMAIN-KEYWORD,shopee,Taiwan
+- DOMAIN-SUFFIX,leetcode.com,DIRECT
+- DOMAIN-KEYWORD,zoom,PROXY
+- DOMAIN-SUFFIX,substack.com,PROXY
+- DOMAIN-SUFFIX,mirror.xyz,PROXY
+- DOMAIN-SUFFIX,truthsocial.com, United States
+- DOMAIN-SUFFIX,openai.com, United States
+- DOMAIN-SUFFIX,forbes.com,PROXY
+- DOMAIN-SUFFIX,econ.st,PROXY
+- DOMAIN-SUFFIX,acast.com,GMedia
