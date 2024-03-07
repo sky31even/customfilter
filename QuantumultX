@@ -37,3 +37,4 @@ HOST-SUFFIX,openai.com, United States
 HOST-SUFFIX,forbes.com,PROXY
 HOST-SUFFIX,econ.st,PROXY
 HOST-SUFFIX,acast.com,GMedia
+HOST-SUFFIX,x.com,GMedia
