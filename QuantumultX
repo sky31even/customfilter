@@ -1,4 +1,5 @@
-HOST-SUFFIX,rfa.org,PROXY
+HOST-SUFFIX,nypost.com,GMedia
+HOST-SUFFIX,rfa.org,GMedia
 HOST-SUFFIX,heygen.com,PROXY
 HOST-SUFFIX,liaoxuefeng.com,DIRECT
 HOST-SUFFIX,xuetangx.com,DIRECT
