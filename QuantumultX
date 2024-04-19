@@ -39,7 +39,6 @@ HOST-KEYWORD,zoom,PROXY
 HOST-SUFFIX,substack.com,PROXY
 HOST-SUFFIX,mirror.xyz,PROXY
 HOST-SUFFIX,truthsocial.com, United States
-HOST-SUFFIX,openai.com, United States
 HOST-SUFFIX,forbes.com,PROXY
 HOST-SUFFIX,econ.st,PROXY
 HOST-SUFFIX,acast.com,GMedia
