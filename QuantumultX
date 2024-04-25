@@ -1,5 +1,5 @@
-HOST-SUFFIX,threadreaderapp.com, PROXY
-HOST-SUFFIX,archive.today, PROXY
+HOST-SUFFIX,threadreaderapp.com,PROXY
+HOST-SUFFIX,archive.today,PROXY
 HOST-SUFFIX,bitwarden.com,PROXY
 HOST-SUFFIX,wikisource.org,PROXY
 HOST-SUFFIX,tripadvisor.com,PROXY
