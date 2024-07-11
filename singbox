@@ -1,0 +1,77 @@
+  {
+    "domain_suffix": [
+      "sagernet.org",
+      "arc.net",
+      "vercel.app",
+      "mega.io",
+      "aljazeera.com",
+      "brew.sh",
+      "longbridge.hk",
+      "hypothes.is",
+      "theguardian.com",
+      "deepl.com",
+      "whasync.com",
+      "gov",
+      "edx-cdn.org",
+      "edx.org",
+      "matters.news",
+      "scmp.com",
+      "brave.com",
+      "dlercloud.com",
+      "pscp.tv",
+      "business-humanrights.org",
+      "z-lib.org",
+      "substack.com",
+      "mirror.xyz",
+      "truthsocial.com",
+      "forbes.com",
+      "econ.st",
+      "acast.com",
+      "x.com",
+      "perplexity.ai"
+    ],
+    "outbound": "Proxy"
+  },
+  {
+    "domain_keyword": [
+      "arc-server",
+      "bitwarden.com",
+      "postman.com",
+      "heygen.com",
+      "reddit",
+      "clubhouse",
+      "discord",
+      "zoom"
+    ],
+    "outbound": "Proxy"
+  },
+  {
+    "domain_suffix": [
+      "liaoxuefeng.com",
+      "xuetangx.com",
+      "leetcode-cn.com",
+      "addthis.com",
+      "addthisedge.com",
+      "gov.cn",
+      "zhaopin.cn",
+      "szlib.org.cn",
+      "pinduoduo.com",
+      "shuaishou.com",
+      "evennotes.cn",
+      "cnki.net",
+      "amap.com",
+      "autonavi.com",
+      "growingio.com",
+      "promotion.aliyun.com",
+      "hujiang.com",
+      "leetcode.com"
+    ],
+    "outbound": "Domestic"
+  },
+  {
+    "domain_suffix": [
+      "truthsocial.com",
+      "openai.com"
+    ],
+    "outbound": "OpenAI"
+  },
