@@ -1,3 +1,5 @@
+  - DOMAIN-SUFFIX,qq.com,Proxy #开立网络环境
+  - DOMAIN-SUFFIX,wechat.com,Proxy #开立网络环境
   - DOMAIN-SUFFIX,fasah.sa,Proxy
   - DOMAIN-SUFFIX,sagernet.org,Proxy
   - DOMAIN-KEYWORD,arc-server,Proxy
