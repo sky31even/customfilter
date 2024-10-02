@@ -1,7 +1,7 @@
-HOST-SUFFIX,textnow.com, United States
-HOST-SUFFIX,ilovepdf.com, Outside
-HOST-SUFFIX,proton.me, Outside
-HOST-SUFFIX,itangtalk.com, Outside
+HOST-SUFFIX,textnow.com,United States
+HOST-SUFFIX,ilovepdf.com,PROXY
+HOST-SUFFIX,proton.me,PROXY
+HOST-SUFFIX,itangtalk.com,PROXY
 HOST-SUFFIX,plutotv.net,GMedia
 HOST-SUFFIX,pluto.tv,GMedia
 HOST-SUFFIX,theguardian.com,GMedia
