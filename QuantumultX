@@ -1,31 +1,31 @@
-HOST-SUFFIX,brew.sh,PROXY
-HOST-SUFFIX,kernel.org,PROXY
+HOST-SUFFIX,brew.sh,Outside
+HOST-SUFFIX,kernel.org,Outside
 HOST-SUFFIX,interactivebrokers.com,United States 
-HOST-SUFFIX,polymarket.com,PROXY
-HOST-SUFFIX,politico.com,PROXY
-HOST-SUFFIX,walletconnect.com,PROXY
-HOST-SUFFIX,infura.io,PROXY
-HOST-SUFFIX,fivethirtyeight.com,PROXY
+HOST-SUFFIX,polymarket.com,Outside
+HOST-SUFFIX,politico.com,Outside
+HOST-SUFFIX,walletconnect.com,Outside
+HOST-SUFFIX,infura.io,Outside
+HOST-SUFFIX,fivethirtyeight.com,Outside
 HOST-SUFFIX,textnow.com,United States
-HOST-SUFFIX,ilovepdf.com,PROXY
-HOST-SUFFIX,proton.me,PROXY
-HOST-SUFFIX,itangtalk.com,PROXY
+HOST-SUFFIX,ilovepdf.com,Outside
+HOST-SUFFIX,proton.me,Outside
+HOST-SUFFIX,itangtalk.com,Outside
 HOST-SUFFIX,plutotv.net,GMedia
 HOST-SUFFIX,pluto.tv,GMedia
 HOST-SUFFIX,theguardian.com,GMedia
-HOST-SUFFIX,ocbc.com,PROXY
-HOST-SUFFIX,middleeasteye.net,PROXY
-HOST-KEYWORD,grnd.b-cdn,PROXY
-HOST-SUFFIX,Ground.news,PROXY
-HOST-SUFFIX,threadreaderapp.com,PROXY
-HOST-SUFFIX,archive.today,PROXY
-HOST-SUFFIX,bitwarden.com,PROXY
-HOST-SUFFIX,wikisource.org,PROXY
-HOST-SUFFIX,tripadvisor.com,PROXY
-HOST-SUFFIX,apkmirror.com,PROXY
+HOST-SUFFIX,ocbc.com,Outside
+HOST-SUFFIX,middleeasteye.net,Outside
+HOST-KEYWORD,grnd.b-cdn,Outside
+HOST-SUFFIX,Ground.news,Outside
+HOST-SUFFIX,threadreaderapp.com,Outside
+HOST-SUFFIX,archive.today,Outside
+HOST-SUFFIX,bitwarden.com,Outside
+HOST-SUFFIX,wikisource.org,Outside
+HOST-SUFFIX,tripadvisor.com,Outside
+HOST-SUFFIX,apkmirror.com,Outside
 HOST-SUFFIX,nypost.com,GMedia
 HOST-SUFFIX,rfa.org,GMedia
-HOST-SUFFIX,heygen.com,PROXY
+HOST-SUFFIX,heygen.com,Outside
 HOST-SUFFIX,liaoxuefeng.com,DIRECT
 HOST-SUFFIX,xuetangx.com,DIRECT
 HOST-SUFFIX,leetcode-cn.com,DIRECT
@@ -38,33 +38,33 @@ HOST-SUFFIX,pinduoduo.com,DIRECT
 HOST-SUFFIX,shuaishou.com,DIRECT
 HOST-SUFFIX,evennotes.cn,DIRECT
 HOST-SUFFIX,cnki.net,DIRECT
-HOST-SUFFIX,gov,PROXY
-HOST-SUFFIX,edx-cdn.org,PROXY
-HOST-SUFFIX,edx.org,PROXY
-HOST-SUFFIX,matters.news,PROXY
-HOST-SUFFIX,scmp.com,PROXY
-HOST-SUFFIX,brave.com,PROXY
-HOST-SUFFIX,dlercloud.com,PROXY
+HOST-SUFFIX,gov,Outside
+HOST-SUFFIX,edx-cdn.org,Outside
+HOST-SUFFIX,edx.org,Outside
+HOST-SUFFIX,matters.news,Outside
+HOST-SUFFIX,scmp.com,Outside
+HOST-SUFFIX,brave.com,Outside
+HOST-SUFFIX,dlercloud.com,Outside
 HOST-SUFFIX,amap.com, DIRECT
 HOST-SUFFIX,autonavi.com, DIRECT
 HOST-SUFFIX,growingio.com, DIRECT
 HOST-SUFFIX,promotion.aliyun.com, DIRECT
 HOST-SUFFIX,hujiang.com, DIRECT
-HOST-KEYWORD,clubhouse, PROXY 
-HOST-KEYWORD,discord,PROXY
-HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,business-humanrights.org,PROXY
-HOST-SUFFIX,z-lib.org,PROXY
+HOST-KEYWORD,clubhouse, Outside 
+HOST-KEYWORD,discord,Outside
+HOST-SUFFIX,pscp.tv,Outside
+HOST-SUFFIX,business-humanrights.org,Outside
+HOST-SUFFIX,z-lib.org,Outside
 HOST-KEYWORD,shopee,Taiwan
 HOST-SUFFIX,leetcode.com,DIRECT
-HOST-KEYWORD,zoom,PROXY
-HOST-SUFFIX,substack.com,PROXY
-HOST-SUFFIX,mirror.xyz,PROXY
+HOST-KEYWORD,zoom,Outside
+HOST-SUFFIX,substack.com,Outside
+HOST-SUFFIX,mirror.xyz,Outside
 HOST-SUFFIX,truthsocial.com, United States
-HOST-SUFFIX,forbes.com,PROXY
-HOST-SUFFIX,econ.st,PROXY
+HOST-SUFFIX,forbes.com,Outside
+HOST-SUFFIX,econ.st,Outside
 HOST-SUFFIX,acast.com,GMedia
 HOST-SUFFIX,x.com,GMedia
-HOST-SUFFIX,busuu.com,PROXY
-HOST-SUFFIX,boshu.cn,PROXY
-HOST-SUFFIX,healthline.com,PROXY
+HOST-SUFFIX,busuu.com,Outside
+HOST-SUFFIX,boshu.cn,Outside
+HOST-SUFFIX,healthline.com,Outside
