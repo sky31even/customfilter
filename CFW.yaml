@@ -1,4 +1,4 @@
-  - DOMAIN-SUFFIX,gov.tw,OpenAI
+  - DOMAIN-SUFFIX,gov.tw,AI Suite
   - DOMAIN-SUFFIX,youtu.shop,Proxy 
   - DOMAIN-SUFFIX,fasah.sa,Proxy
   - DOMAIN-SUFFIX,sagernet.org,Proxy
@@ -50,8 +50,8 @@
   - DOMAIN-KEYWORD,zoom,Proxy
   - DOMAIN-SUFFIX,substack.com,Proxy
   - DOMAIN-SUFFIX,mirror.xyz,Proxy
-  - DOMAIN-SUFFIX,truthsocial.com, OpenAI
-  - DOMAIN-SUFFIX,openai.com, OpenAI
+  - DOMAIN-SUFFIX,truthsocial.com, AI Suite
+  - DOMAIN-SUFFIX,openai.com, AI Suite
   - DOMAIN-SUFFIX,forbes.com,Proxy
   - DOMAIN-SUFFIX,econ.st,Proxy
   - DOMAIN-SUFFIX,acast.com,Proxy
