@@ -15,9 +15,9 @@ HOST-SUFFIX,textnow.com,United States
 HOST-SUFFIX,ilovepdf.com,Outside
 HOST-SUFFIX,proton.me,Outside
 HOST-SUFFIX,itangtalk.com,Outside
-HOST-SUFFIX,plutotv.net,GMedia
-HOST-SUFFIX,pluto.tv,GMedia
-HOST-SUFFIX,theguardian.com,GMedia
+HOST-SUFFIX,plutotv.net,Outside
+HOST-SUFFIX,pluto.tv,Outside
+HOST-SUFFIX,theguardian.com,Outside
 HOST-SUFFIX,ocbc.com,Outside
 HOST-SUFFIX,middleeasteye.net,Outside
 HOST-KEYWORD,grnd.b-cdn,Outside
@@ -28,8 +28,8 @@ HOST-SUFFIX,bitwarden.com,Outside
 HOST-SUFFIX,wikisource.org,Outside
 HOST-SUFFIX,tripadvisor.com,Outside
 HOST-SUFFIX,apkmirror.com,Outside
-HOST-SUFFIX,nypost.com,GMedia
-HOST-SUFFIX,rfa.org,GMedia
+HOST-SUFFIX,nypost.com,Outside
+HOST-SUFFIX,rfa.org,Outside
 HOST-SUFFIX,heygen.com,Outside
 HOST-SUFFIX,liaoxuefeng.com,DIRECT
 HOST-SUFFIX,xuetangx.com,DIRECT
@@ -68,8 +68,8 @@ HOST-SUFFIX,mirror.xyz,Outside
 HOST-SUFFIX,truthsocial.com, United States
 HOST-SUFFIX,forbes.com,Outside
 HOST-SUFFIX,econ.st,Outside
-HOST-SUFFIX,acast.com,GMedia
-HOST-SUFFIX,x.com,GMedia
+HOST-SUFFIX,acast.com,Outside
+HOST-SUFFIX,x.com,Outside
 HOST-SUFFIX,busuu.com,Outside
 HOST-SUFFIX,boshu.cn,Outside
 HOST-SUFFIX,healthline.com,Outside
