@@ -15,7 +15,6 @@ HOST-SUFFIX,yahoofinance.com,Singapore
 HOST-SUFFIX,wetransfer.com,Outside
 HOST-SUFFIX,voanews.com,Outside
 HOST-SUFFIX,cnbc.com,Outside
-HOST-KEYWORD,duolingo,Mainland
 HOST-SUFFIX,brew.sh,Outside
 HOST-SUFFIX,kernel.org,Outside
 HOST-SUFFIX,interactivebrokers.com,United States 
@@ -34,7 +33,6 @@ HOST-SUFFIX,pluto.tv,United States
 HOST-SUFFIX,theguardian.com,Outside
 HOST-SUFFIX,ocbc.com,Outside
 HOST-SUFFIX,middleeasteye.net,Outside
-HOST-KEYWORD,grnd.b-cdn,Outside
 HOST-SUFFIX,Ground.news,Outside
 HOST-SUFFIX,threadreaderapp.com,Outside
 HOST-SUFFIX,archive.today,Outside
@@ -69,14 +67,10 @@ HOST-SUFFIX,autonavi.com, DIRECT
 HOST-SUFFIX,growingio.com, DIRECT
 HOST-SUFFIX,promotion.aliyun.com, DIRECT
 HOST-SUFFIX,hujiang.com, DIRECT
-HOST-KEYWORD,clubhouse, Outside 
-HOST-KEYWORD,discord,Outside
 HOST-SUFFIX,pscp.tv,Outside
 HOST-SUFFIX,business-humanrights.org,Outside
 HOST-SUFFIX,z-lib.org,Outside
-HOST-KEYWORD,shopee,Taiwan
 HOST-SUFFIX,leetcode.com,DIRECT
-HOST-KEYWORD,zoom,Outside
 HOST-SUFFIX,substack.com,Outside
 HOST-SUFFIX,mirror.xyz,Outside
 HOST-SUFFIX,truthsocial.com, United States
