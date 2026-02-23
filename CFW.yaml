@@ -63,3 +63,4 @@
   - DOMAIN-SUFFIX,acast.com,Proxy
   - DOMAIN-SUFFIX,x.com,Proxy
   - DOMAIN-SUFFIX,perplexity.ai,Proxy
+  - DOMAIN,mozilla.cloudflare-dns.com,📱 Telegram
