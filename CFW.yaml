@@ -1,11 +1,10 @@
   - DOMAIN-KEYWORD,youtu6shop,Proxy
-  - DOMAIN-KEYWORD,manuscdn.com,AI Suite
-  - DOMAIN-KEYWORD,manus.im,AI Suite
+  - DOMAIN-KEYWORD,manuscdn.com,🤖 AI
+  - DOMAIN-KEYWORD,manus.im,🤖 AI
   - DOMAIN-KEYWORD,trustwallet.com,Proxy
   - DOMAIN-KEYWORD,namecheap,Proxy
-  - DOMAIN-KEYWORD,tiktok,TikTok
   - DOMAIN-SUFFIX,uhdnow.com,Proxy
-  - DOMAIN-SUFFIX,gov.tw,AI Suite
+  - DOMAIN-SUFFIX,gov.tw,🤖 AI
   - DOMAIN-SUFFIX,youtu.shop,Proxy 
   - DOMAIN-SUFFIX,fasah.sa,Proxy
   - DOMAIN-SUFFIX,sagernet.org,Proxy
@@ -24,18 +23,18 @@
   - DOMAIN-SUFFIX,theguardian.com,Proxy
   - DOMAIN-SUFFIX,deepl.com,Proxy
   - DOMAIN-SUFFIX,whasync.com,Proxy
-  - DOMAIN-SUFFIX,liaoxuefeng.com,Domestic
-  - DOMAIN-SUFFIX,xuetangx.com,Domestic
-  - DOMAIN-SUFFIX,leetcode-cn.com,Domestic
-  - DOMAIN-SUFFIX,addthis.com,Domestic
-  - DOMAIN-SUFFIX,addthisedge.com,Domestic
-  - DOMAIN-SUFFIX,gov.cn,Domestic
-  - DOMAIN-SUFFIX,zhaopin.cn,Domestic
-  - DOMAIN-SUFFIX,szlib.org.cn,Domestic
-  - DOMAIN-SUFFIX,pinduoduo.com,Domestic
-  - DOMAIN-SUFFIX,shuaishou.com,Domestic
-  - DOMAIN-SUFFIX,evennotes.cn,Domestic
-  - DOMAIN-SUFFIX,cnki.net,Domestic
+  - DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
+  - DOMAIN-SUFFIX,xuetangx.com,DIRECT
+  - DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
+  - DOMAIN-SUFFIX,addthis.com,DIRECT
+  - DOMAIN-SUFFIX,addthisedge.com,DIRECT
+  - DOMAIN-SUFFIX,gov.cn,DIRECT
+  - DOMAIN-SUFFIX,zhaopin.cn,DIRECT
+  - DOMAIN-SUFFIX,szlib.org.cn,DIRECT
+  - DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+  - DOMAIN-SUFFIX,shuaishou.com,DIRECT
+  - DOMAIN-SUFFIX,evennotes.cn,DIRECT
+  - DOMAIN-SUFFIX,cnki.net,DIRECT
   - DOMAIN-SUFFIX,gov,Proxy
   - DOMAIN-SUFFIX,edx-cdn.org,Proxy
   - DOMAIN-SUFFIX,edx.org,Proxy
@@ -43,22 +42,22 @@
   - DOMAIN-SUFFIX,scmp.com,Proxy
   - DOMAIN-SUFFIX,brave.com,Proxy
   - DOMAIN-SUFFIX,dlercloud.com,Proxy
-  - DOMAIN-SUFFIX,amap.com, Domestic
-  - DOMAIN-SUFFIX,autonavi.com, Domestic
-  - DOMAIN-SUFFIX,growingio.com, Domestic
-  - DOMAIN-SUFFIX,promotion.aliyun.com, Domestic
-  - DOMAIN-SUFFIX,hujiang.com, Domestic
+  - DOMAIN-SUFFIX,amap.com, DIRECT
+  - DOMAIN-SUFFIX,autonavi.com, DIRECT
+  - DOMAIN-SUFFIX,growingio.com, DIRECT
+  - DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
+  - DOMAIN-SUFFIX,hujiang.com, DIRECT
   - DOMAIN-KEYWORD,clubhouse, Proxy 
   - DOMAIN-KEYWORD,discord,Proxy
   - DOMAIN-SUFFIX,pscp.tv,Proxy
   - DOMAIN-SUFFIX,business-humanrights.org,Proxy
   - DOMAIN-SUFFIX,z-lib.org,Proxy
-  - DOMAIN-SUFFIX,leetcode.com,Domestic
+  - DOMAIN-SUFFIX,leetcode.com,DIRECT
   - DOMAIN-KEYWORD,zoom,Proxy
   - DOMAIN-SUFFIX,substack.com,Proxy
   - DOMAIN-SUFFIX,mirror.xyz,Proxy
-  - DOMAIN-SUFFIX,truthsocial.com, AI Suite
-  - DOMAIN-SUFFIX,openai.com, AI Suite
+  - DOMAIN-SUFFIX,truthsocial.com, 🤖 AI
+  - DOMAIN-SUFFIX,openai.com, 🤖 AI
   - DOMAIN-SUFFIX,forbes.com,Proxy
   - DOMAIN-SUFFIX,econ.st,Proxy
   - DOMAIN-SUFFIX,acast.com,Proxy
