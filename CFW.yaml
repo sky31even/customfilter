@@ -85,3 +85,7 @@
 - DOMAIN-SUFFIX,x.com,🚀 Select
 - DOMAIN-SUFFIX,perplexity.ai,🚀 Select
 - DOMAIN,mozilla.cloudflare-dns.com,🚀 Select
+
+# ── GeoIP & Final ──
+- GEOIP,CN,DIRECT
+- MATCH,🚀 Select
