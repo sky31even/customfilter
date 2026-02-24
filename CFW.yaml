@@ -1,31 +1,32 @@
-  - DOMAIN-KEYWORD,whatsapp.net,Proxy
-  - DOMAIN-KEYWORD,justmysocks.net,Proxy
-  - DOMAIN-KEYWORD,bandwagonhost.com,Proxy
-  - DOMAIN-KEYWORD,youtu6.shop,Proxy
+  - GEOIP,US,🇺🇸 UnitedStates
+  - DOMAIN-KEYWORD,whatsapp.net,🚀 Select
+  - DOMAIN-KEYWORD,justmysocks.net,🚀 Select
+  - DOMAIN-KEYWORD,bandwagonhost.com,🚀 Select
+  - DOMAIN-KEYWORD,youtu6.shop,🚀 Select
   - DOMAIN-KEYWORD,manuscdn.com,🤖 AI
   - DOMAIN-KEYWORD,manus.im,🤖 AI
-  - DOMAIN-KEYWORD,trustwallet.com,Proxy
-  - DOMAIN-KEYWORD,namecheap,Proxy
-  - DOMAIN-SUFFIX,uhdnow.com,Proxy
+  - DOMAIN-KEYWORD,trustwallet.com,🚀 Select
+  - DOMAIN-KEYWORD,namecheap,🚀 Select
+  - DOMAIN-SUFFIX,uhdnow.com,🚀 Select
   - DOMAIN-SUFFIX,gov.tw,🤖 AI
-  - DOMAIN-SUFFIX,youtu.shop,Proxy 
-  - DOMAIN-SUFFIX,fasah.sa,Proxy
-  - DOMAIN-SUFFIX,sagernet.org,Proxy
-  - DOMAIN-KEYWORD,arc-server,Proxy
-  - DOMAIN-SUFFIX,arc.net,Proxy
-  - DOMAIN-SUFFIX,vercel.app,Proxy
-  - DOMAIN-SUFFIX,mega.io,Proxy
-  - DOMAIN-SUFFIX,aljazeera.com,Proxy
-  - DOMAIN-SUFFIX,brew.sh,Proxy
-  - DOMAIN-SUFFIX,longbridge.hk,Proxy
-  - DOMAIN-SUFFIX,hypothes.is,Proxy
-  - DOMAIN-KEYWORD,bitwarden.com,Proxy
-  - DOMAIN-KEYWORD,postman.com,Proxy
-  - DOMAIN-KEYWORD,heygen.com,Proxy
-  - DOMAIN-KEYWORD,reddit,Proxy
-  - DOMAIN-SUFFIX,theguardian.com,Proxy
-  - DOMAIN-SUFFIX,deepl.com,Proxy
-  - DOMAIN-SUFFIX,whasync.com,Proxy
+  - DOMAIN-SUFFIX,youtu.shop,🚀 Select 
+  - DOMAIN-SUFFIX,fasah.sa,🚀 Select
+  - DOMAIN-SUFFIX,sagernet.org,🚀 Select
+  - DOMAIN-KEYWORD,arc-server,🚀 Select
+  - DOMAIN-SUFFIX,arc.net,🚀 Select
+  - DOMAIN-SUFFIX,vercel.app,🚀 Select
+  - DOMAIN-SUFFIX,mega.io,🚀 Select
+  - DOMAIN-SUFFIX,aljazeera.com,🚀 Select
+  - DOMAIN-SUFFIX,brew.sh,🚀 Select
+  - DOMAIN-SUFFIX,longbridge.hk,🚀 Select
+  - DOMAIN-SUFFIX,hypothes.is,🚀 Select
+  - DOMAIN-KEYWORD,bitwarden.com,🚀 Select
+  - DOMAIN-KEYWORD,postman.com,🚀 Select
+  - DOMAIN-KEYWORD,heygen.com,🚀 Select
+  - DOMAIN-KEYWORD,reddit,🚀 Select
+  - DOMAIN-SUFFIX,theguardian.com,🚀 Select
+  - DOMAIN-SUFFIX,deepl.com,🚀 Select
+  - DOMAIN-SUFFIX,whasync.com,🚀 Select
   - DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
   - DOMAIN-SUFFIX,xuetangx.com,DIRECT
   - DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
@@ -38,32 +39,32 @@
   - DOMAIN-SUFFIX,shuaishou.com,DIRECT
   - DOMAIN-SUFFIX,evennotes.cn,DIRECT
   - DOMAIN-SUFFIX,cnki.net,DIRECT
-  - DOMAIN-SUFFIX,gov,Proxy
-  - DOMAIN-SUFFIX,edx-cdn.org,Proxy
-  - DOMAIN-SUFFIX,edx.org,Proxy
-  - DOMAIN-SUFFIX,matters.news,Proxy
-  - DOMAIN-SUFFIX,scmp.com,Proxy
-  - DOMAIN-SUFFIX,brave.com,Proxy
-  - DOMAIN-SUFFIX,dlercloud.com,Proxy
+  - DOMAIN-SUFFIX,gov,🚀 Select
+  - DOMAIN-SUFFIX,edx-cdn.org,🚀 Select
+  - DOMAIN-SUFFIX,edx.org,🚀 Select
+  - DOMAIN-SUFFIX,matters.news,🚀 Select
+  - DOMAIN-SUFFIX,scmp.com,🚀 Select
+  - DOMAIN-SUFFIX,brave.com,🚀 Select
+  - DOMAIN-SUFFIX,dlercloud.com,🚀 Select
   - DOMAIN-SUFFIX,amap.com, DIRECT
   - DOMAIN-SUFFIX,autonavi.com, DIRECT
   - DOMAIN-SUFFIX,growingio.com, DIRECT
   - DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
   - DOMAIN-SUFFIX,hujiang.com, DIRECT
-  - DOMAIN-KEYWORD,clubhouse, Proxy 
-  - DOMAIN-KEYWORD,discord,Proxy
-  - DOMAIN-SUFFIX,pscp.tv,Proxy
-  - DOMAIN-SUFFIX,business-humanrights.org,Proxy
-  - DOMAIN-SUFFIX,z-lib.org,Proxy
+  - DOMAIN-KEYWORD,clubhouse, 🚀 Select 
+  - DOMAIN-KEYWORD,discord,🚀 Select
+  - DOMAIN-SUFFIX,pscp.tv,🚀 Select
+  - DOMAIN-SUFFIX,business-humanrights.org,🚀 Select
+  - DOMAIN-SUFFIX,z-lib.org,🚀 Select
   - DOMAIN-SUFFIX,leetcode.com,DIRECT
-  - DOMAIN-KEYWORD,zoom,Proxy
-  - DOMAIN-SUFFIX,substack.com,Proxy
-  - DOMAIN-SUFFIX,mirror.xyz,Proxy
+  - DOMAIN-KEYWORD,zoom,🚀 Select
+  - DOMAIN-SUFFIX,substack.com,🚀 Select
+  - DOMAIN-SUFFIX,mirror.xyz,🚀 Select
   - DOMAIN-SUFFIX,truthsocial.com, 🤖 AI
   - DOMAIN-SUFFIX,openai.com, 🤖 AI
-  - DOMAIN-SUFFIX,forbes.com,Proxy
-  - DOMAIN-SUFFIX,econ.st,Proxy
-  - DOMAIN-SUFFIX,acast.com,Proxy
-  - DOMAIN-SUFFIX,x.com,Proxy
-  - DOMAIN-SUFFIX,perplexity.ai,Proxy
+  - DOMAIN-SUFFIX,forbes.com,🚀 Select
+  - DOMAIN-SUFFIX,econ.st,🚀 Select
+  - DOMAIN-SUFFIX,acast.com,🚀 Select
+  - DOMAIN-SUFFIX,x.com,🚀 Select
+  - DOMAIN-SUFFIX,perplexity.ai,🚀 Select
   - DOMAIN,mozilla.cloudflare-dns.com,📱 Telegram
