@@ -86,5 +86,10 @@
 - DOMAIN-SUFFIX,perplexity.ai,🚀 Select
 - DOMAIN,mozilla.cloudflare-dns.com,🚀 Select
 
+# ── LinkedIn ──
+- DOMAIN-SUFFIX,linkedin.com,🚀 Select
+- DOMAIN-SUFFIX,licdn.com,🚀 Select
+- DOMAIN-SUFFIX,lnkd.in,🚀 Select
+
 # ── GeoIP & Final ──
 - GEOIP,CN,DIRECT
