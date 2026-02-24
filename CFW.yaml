@@ -1,70 +1,87 @@
-  - GEOIP,US,🇺🇸 UnitedStates
-  - DOMAIN-KEYWORD,whatsapp.net,🚀 Select
-  - DOMAIN-KEYWORD,justmysocks.net,🚀 Select
-  - DOMAIN-KEYWORD,bandwagonhost.com,🚀 Select
-  - DOMAIN-KEYWORD,youtu6.shop,🚀 Select
-  - DOMAIN-KEYWORD,manuscdn.com,🤖 AI
-  - DOMAIN-KEYWORD,manus.im,🤖 AI
-  - DOMAIN-KEYWORD,trustwallet.com,🚀 Select
-  - DOMAIN-KEYWORD,namecheap,🚀 Select
-  - DOMAIN-SUFFIX,uhdnow.com,🚀 Select
-  - DOMAIN-SUFFIX,gov.tw,🤖 AI
-  - DOMAIN-SUFFIX,youtu.shop,🚀 Select 
-  - DOMAIN-SUFFIX,fasah.sa,🚀 Select
-  - DOMAIN-SUFFIX,sagernet.org,🚀 Select
-  - DOMAIN-KEYWORD,arc-server,🚀 Select
-  - DOMAIN-SUFFIX,arc.net,🚀 Select
-  - DOMAIN-SUFFIX,vercel.app,🚀 Select
-  - DOMAIN-SUFFIX,mega.io,🚀 Select
-  - DOMAIN-SUFFIX,aljazeera.com,🚀 Select
-  - DOMAIN-SUFFIX,brew.sh,🚀 Select
-  - DOMAIN-SUFFIX,longbridge.hk,🚀 Select
-  - DOMAIN-SUFFIX,hypothes.is,🚀 Select
-  - DOMAIN-KEYWORD,bitwarden.com,🚀 Select
-  - DOMAIN-KEYWORD,postman.com,🚀 Select
-  - DOMAIN-KEYWORD,heygen.com,🚀 Select
-  - DOMAIN-KEYWORD,reddit,🚀 Select
-  - DOMAIN-SUFFIX,theguardian.com,🚀 Select
-  - DOMAIN-SUFFIX,deepl.com,🚀 Select
-  - DOMAIN-SUFFIX,whasync.com,🚀 Select
-  - DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
-  - DOMAIN-SUFFIX,xuetangx.com,DIRECT
-  - DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
-  - DOMAIN-SUFFIX,addthis.com,DIRECT
-  - DOMAIN-SUFFIX,addthisedge.com,DIRECT
-  - DOMAIN-SUFFIX,gov.cn,DIRECT
-  - DOMAIN-SUFFIX,zhaopin.cn,DIRECT
-  - DOMAIN-SUFFIX,szlib.org.cn,DIRECT
-  - DOMAIN-SUFFIX,pinduoduo.com,DIRECT
-  - DOMAIN-SUFFIX,shuaishou.com,DIRECT
-  - DOMAIN-SUFFIX,evennotes.cn,DIRECT
-  - DOMAIN-SUFFIX,cnki.net,DIRECT
-  - DOMAIN-SUFFIX,gov,🚀 Select
-  - DOMAIN-SUFFIX,edx-cdn.org,🚀 Select
-  - DOMAIN-SUFFIX,edx.org,🚀 Select
-  - DOMAIN-SUFFIX,matters.news,🚀 Select
-  - DOMAIN-SUFFIX,scmp.com,🚀 Select
-  - DOMAIN-SUFFIX,brave.com,🚀 Select
-  - DOMAIN-SUFFIX,dlercloud.com,🚀 Select
-  - DOMAIN-SUFFIX,amap.com, DIRECT
-  - DOMAIN-SUFFIX,autonavi.com, DIRECT
-  - DOMAIN-SUFFIX,growingio.com, DIRECT
-  - DOMAIN-SUFFIX,promotion.aliyun.com, DIRECT
-  - DOMAIN-SUFFIX,hujiang.com, DIRECT
-  - DOMAIN-KEYWORD,clubhouse, 🚀 Select 
-  - DOMAIN-KEYWORD,discord,🚀 Select
-  - DOMAIN-SUFFIX,pscp.tv,🚀 Select
-  - DOMAIN-SUFFIX,business-humanrights.org,🚀 Select
-  - DOMAIN-SUFFIX,z-lib.org,🚀 Select
-  - DOMAIN-SUFFIX,leetcode.com,DIRECT
-  - DOMAIN-KEYWORD,zoom,🚀 Select
-  - DOMAIN-SUFFIX,substack.com,🚀 Select
-  - DOMAIN-SUFFIX,mirror.xyz,🚀 Select
-  - DOMAIN-SUFFIX,truthsocial.com, 🤖 AI
-  - DOMAIN-SUFFIX,openai.com, 🤖 AI
-  - DOMAIN-SUFFIX,forbes.com,🚀 Select
-  - DOMAIN-SUFFIX,econ.st,🚀 Select
-  - DOMAIN-SUFFIX,acast.com,🚀 Select
-  - DOMAIN-SUFFIX,x.com,🚀 Select
-  - DOMAIN-SUFFIX,perplexity.ai,🚀 Select
-  - DOMAIN,mozilla.cloudflare-dns.com,📱 Telegram
+# ════════════════════════════════
+# Custom Rules for Clash
+# ════════════════════════════════
+
+# ── GEOSITE (Frequent Services) ──
+- GEOSITE,google,🚀 Select
+- GEOSITE,youtube,🚀 Select
+- GEOSITE,telegram,🚀 Select
+- GEOSITE,meta,🚀 Select
+- GEOSITE,twitter,🚀 Select
+- GEOSITE,netflix,🚀 Select
+- GEOSITE,github,🚀 Select
+
+# ── AI Services ──
+- DOMAIN-KEYWORD,manuscdn.com,🤖 AI
+- DOMAIN-KEYWORD,manus.im,🤖 AI
+- DOMAIN-SUFFIX,gov.tw,🤖 AI
+- DOMAIN-SUFFIX,truthsocial.com,🤖 AI
+- DOMAIN-SUFFIX,openai.com,🤖 AI
+
+# ── Direct Connections ──
+- DOMAIN-SUFFIX,liaoxuefeng.com,DIRECT
+- DOMAIN-SUFFIX,xuetangx.com,DIRECT
+- DOMAIN-SUFFIX,leetcode-cn.com,DIRECT
+- DOMAIN-SUFFIX,addthis.com,DIRECT
+- DOMAIN-SUFFIX,addthisedge.com,DIRECT
+- DOMAIN-SUFFIX,gov.cn,DIRECT
+- DOMAIN-SUFFIX,zhaopin.cn,DIRECT
+- DOMAIN-SUFFIX,szlib.org.cn,DIRECT
+- DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+- DOMAIN-SUFFIX,shuaishou.com,DIRECT
+- DOMAIN-SUFFIX,evennotes.cn,DIRECT
+- DOMAIN-SUFFIX,cnki.net,DIRECT
+- DOMAIN-SUFFIX,amap.com,DIRECT
+- DOMAIN-SUFFIX,autonavi.com,DIRECT
+- DOMAIN-SUFFIX,growingio.com,DIRECT
+- DOMAIN-SUFFIX,promotion.aliyun.com,DIRECT
+- DOMAIN-SUFFIX,hujiang.com,DIRECT
+- DOMAIN-SUFFIX,leetcode.com,DIRECT
+
+# ── Proxy / Select ──
+- DOMAIN-KEYWORD,whatsapp.net,🚀 Select
+- DOMAIN-KEYWORD,justmysocks.net,🚀 Select
+- DOMAIN-KEYWORD,bandwagonhost.com,🚀 Select
+- DOMAIN-KEYWORD,youtu6.shop,🚀 Select
+- DOMAIN-KEYWORD,trustwallet.com,🚀 Select
+- DOMAIN-KEYWORD,namecheap,🚀 Select
+- DOMAIN-SUFFIX,uhdnow.com,🚀 Select
+- DOMAIN-SUFFIX,youtu.shop,🚀 Select
+- DOMAIN-SUFFIX,fasah.sa,🚀 Select
+- DOMAIN-SUFFIX,sagernet.org,🚀 Select
+- DOMAIN-KEYWORD,arc-server,🚀 Select
+- DOMAIN-SUFFIX,arc.net,🚀 Select
+- DOMAIN-SUFFIX,vercel.app,🚀 Select
+- DOMAIN-SUFFIX,mega.io,🚀 Select
+- DOMAIN-SUFFIX,aljazeera.com,🚀 Select
+- DOMAIN-SUFFIX,brew.sh,🚀 Select
+- DOMAIN-SUFFIX,longbridge.hk,🚀 Select
+- DOMAIN-SUFFIX,hypothes.is,🚀 Select
+- DOMAIN-KEYWORD,bitwarden.com,🚀 Select
+- DOMAIN-KEYWORD,postman.com,🚀 Select
+- DOMAIN-KEYWORD,heygen.com,🚀 Select
+- DOMAIN-KEYWORD,reddit,🚀 Select
+- DOMAIN-SUFFIX,theguardian.com,🚀 Select
+- DOMAIN-SUFFIX,deepl.com,🚀 Select
+- DOMAIN-SUFFIX,whasync.com,🚀 Select
+- DOMAIN-SUFFIX,gov,🚀 Select
+- DOMAIN-SUFFIX,edx-cdn.org,🚀 Select
+- DOMAIN-SUFFIX,edx.org,🚀 Select
+- DOMAIN-SUFFIX,matters.news,🚀 Select
+- DOMAIN-SUFFIX,scmp.com,🚀 Select
+- DOMAIN-SUFFIX,brave.com,🚀 Select
+- DOMAIN-SUFFIX,dlercloud.com,🚀 Select
+- DOMAIN-KEYWORD,clubhouse,🚀 Select
+- DOMAIN-KEYWORD,discord,🚀 Select
+- DOMAIN-SUFFIX,pscp.tv,🚀 Select
+- DOMAIN-SUFFIX,business-humanrights.org,🚀 Select
+- DOMAIN-SUFFIX,z-lib.org,🚀 Select
+- DOMAIN-KEYWORD,zoom,🚀 Select
+- DOMAIN-SUFFIX,substack.com,🚀 Select
+- DOMAIN-SUFFIX,mirror.xyz,🚀 Select
+- DOMAIN-SUFFIX,forbes.com,🚀 Select
+- DOMAIN-SUFFIX,econ.st,🚀 Select
+- DOMAIN-SUFFIX,acast.com,🚀 Select
+- DOMAIN-SUFFIX,x.com,🚀 Select
+- DOMAIN-SUFFIX,perplexity.ai,🚀 Select
+- DOMAIN,mozilla.cloudflare-dns.com,🚀 Select
